@@ -1,6 +1,6 @@
 # Python-for-Data-Science
 In this repository have tried to include all the core components and apk libraries of python that are must for performing the operations related to Data science.
-
+# Some glimpse of the visualizations are shown below... 
 ![matplotlib 8](https://user-images.githubusercontent.com/97249971/148602659-5d19c670-5c9e-4a38-925d-6fa91cd41574.png)
 ![matplotlib 9](https://user-images.githubusercontent.com/97249971/148602661-ef381495-23b4-4ff9-8436-f4cf5382a85c.png)
 ![matplotlib 10](https://user-images.githubusercontent.com/97249971/148602662-41bd68af-a789-4037-b2df-52c9b58fe598.png)
