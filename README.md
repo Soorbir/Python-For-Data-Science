@@ -3,6 +3,7 @@ In this repository have tried to include all the core components and apk librari
 # Some glimpse of the visualizations are shown below... 
 ![matplotlib 8](https://user-images.githubusercontent.com/97249971/148602659-5d19c670-5c9e-4a38-925d-6fa91cd41574.png)
 ![matplotlib 9](https://user-images.githubusercontent.com/97249971/148602661-ef381495-23b4-4ff9-8436-f4cf5382a85c.png)
+![image](https://user-images.githubusercontent.com/97249971/148706780-415072fa-1e00-4e8c-8851-7b5cf7dc9d2f.png)
 ![matplotlib 10](https://user-images.githubusercontent.com/97249971/148602662-41bd68af-a789-4037-b2df-52c9b58fe598.png)
 ![pandas 2 ](https://user-images.githubusercontent.com/97249971/148602651-8fa83a4b-b660-4825-b829-10d563f1c551.png)
 ![pandas viz 1](https://user-images.githubusercontent.com/97249971/148602653-43e34b06-0244-4692-84da-5c59d89ce92b.png)
